@@ -7,7 +7,7 @@ Dual LoRa Gateway HAT for the Pi Zero
 Here is an attempt at creating a dual lora gateway for the Pi Zero as I wanted something small to track up to two trackers at once. Potentially from my pocket while I am running around a field looking for the trackers!! This board was intended to be used along with Dave Akermans LoRa Gateway software he developed for the Pi in The Sky project (https://github.com/PiInTheSky/lora-gateway.git) 
 
 # Component Requirements 
-1 x 24 pin header (female) 
+1 x 24x2 pin header (female) 
 1 x LoRa Chip (HopeRF) 
 1 x SMA connector 
 4 x 0805 SMD LEDs and appropriate resistors (optional) 
