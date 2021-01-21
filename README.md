@@ -8,7 +8,7 @@ Here is an attempt at creating a dual lora gateway for the Pi Zero as I wanted s
 
 # Component Requirements 
 * 1 x 24x2 pin header (female) 
-* 1 x LoRa Chip (HopeRF) 
+* 1 (the 2nd is optional) x LoRa Chip (HopeRF) 
 * 1 x SMA connector 
 * 5 x 0805 SMD LEDs and appropriate resistors (optional) 
 
