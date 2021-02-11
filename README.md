@@ -25,6 +25,6 @@ https://www.daveakerman.com/?p=1719
 
 # Support Me
 
-If you found this script useful, why not buy me a coffee! 
+If you found this board useful, why not buy me a coffee! 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O01FC9U)
